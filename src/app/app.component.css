@@ -10,3 +10,18 @@
     align-items: center;
     height:100vh;
 }
+.bed2,.hall{
+    height:350px;
+    width: 350px;
+}
+.bed1{
+     height: 350px;
+     width: 301px 
+}
+.kitchen{
+    height: 150px;
+    width:400px;
+}
+.dining{
+   width:500px;height: 150px;
+}

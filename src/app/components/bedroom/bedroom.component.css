@@ -5,3 +5,10 @@
   height: 100%;
   width: 100%;
 }
+.bathrm{
+  width:100px;
+  height:200px;
+  position: absolute;
+  right:0;
+  bottom: 0;
+}
